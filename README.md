@@ -19,4 +19,4 @@ I'm a developer passionate about building systems that solve real-world problems
 
 - [LinkedIn](https://www.linkedin.com/in/ishika-chauhan/)
 - [GitHub](https://github.com/ishika-1205)
-- 📩 Email: ishikachauhan1205@gmail.com
+- 📩 Email: ishika4462@gmail.com
