@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h2 align="center">Hi, I'm Ishika Chauhan</h2>
 <p align="center">Final year Student @ IIIT Gwalior | Ex-SWE Intern @ Google</p>
