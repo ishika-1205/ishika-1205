@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ishika-1205/ishika-1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi, I'm Ishika Chauhan</h2>
+<p align="center">Final year Student @ IIIT Gwalior | Ex-SWE Intern @ Google</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+I'm a developer passionate about building systems that solve real-world problems — securely, scalably, and creatively.
+
+- 🔍 I love building decentralized, secure, and scalable backend systems.
+- 🚀 I’ve built everything from blockchain-based IoT update delivery to serverless microservices.
+- 💡 I'm always up for bold, high-impact projects that blend innovation with real-world utility.
+
+---
+
+### 📬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ishika-chauhan/)
+- [GitHub](https://github.com/ishika-1205)
+- 📩 Email: ishikachauhan1205@gmail.com
